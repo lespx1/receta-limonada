@@ -3,9 +3,9 @@
 ## Ingredientes
 - Limones: 4
 - Agua: 1 litro
-- Azucar: 4 cucharadas
+- Azucar: 2 cucharadas
 
-## Pasoscat RE
+## Pasos
 - Exprimir los limones.
 - Mezclar con el agua y el azucar.
 - Servir fria.
